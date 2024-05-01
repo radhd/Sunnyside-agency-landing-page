@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Landing](./Mobile-375-version)
+![Mobile Landing](./Mobile-375-version.png)
 
-![Desktop Landing](./Desktop-1440-version)
+![Desktop Landing](./Desktop-1440-version.png)
 
 A screenshots of my solution.
 

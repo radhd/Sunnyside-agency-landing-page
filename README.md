@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Landing](./screencapture-127-0-0-1-5500-index-html-2024-05-01-14_14_49.png)
+![Mobile Landing](./Mobile-375-version)
 
-![Desktop Landing](./screencapture-127-0-0-1-5500-index-html-2024-05-01-14_15_40.png)
+![Desktop Landing](./Desktop-1440-version)
 
 A screenshots of my solution.
 
@@ -39,8 +39,7 @@ One screenshot is for the mobile version, the second one is for the desktop.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://radhd.github.io/Sunnyside-agency-landing-page/)
 
 
 ## My process
